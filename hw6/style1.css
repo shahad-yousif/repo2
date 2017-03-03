@@ -10,22 +10,13 @@
 #normal{
      font-weight: normal;
 }
-table{
-    padding-top: 20px;
-    font-weight: bold;
-   
-}
 
-a{
-    padding:5px;
+
+
+.box{
+   padding:5px;
     text-decoration: none;
      font-weight: bold;
-     
-    
-    
-}
-.box{
-    border:2px solid black;
 }
 
 ul.no_bullet {
@@ -51,7 +42,6 @@ li.pic{
      background-repeat: no-repeat;
     background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf4LwDXcKn5y_EkLyQqR--jZ8yGMRWjJjLx-2LuEYL7D3Wx7HoXI3dL5k);
     background-size: 20px 20px ;
-    background-position:;
     padding-left: 25px;
     
 }
@@ -65,7 +55,6 @@ li.pic{
      background-repeat: no-repeat;
     background-image: url(https://openclipart.org/image/2400px/svg_to_png/183645/eco-green-apple.png);
     background-size: 20px 20px ;
-    background-position:;
     padding-left: 25px;
     
 }
@@ -79,7 +68,6 @@ li.pic{
      background-repeat: no-repeat;
     background-image: url(https://thumb9.shutterstock.com/display_pic_with_logo/450076/519486556/stock-vector-strawberry-vector-icon-illustration-delicious-strawberry-icon-red-ripe-strawberry-icon-519486556.jpg);
     background-size: 20px 20px ;
-    background-position:;
     padding-left: 25px;
     
 }
@@ -93,7 +81,6 @@ li.pic{
      background-repeat: no-repeat;
     background-image: url(http://media.gettyimages.com/photos/blueberry-on-white-picture-id154514876?s=170667a);
     background-size: 20px 20px ;
-    background-position:;
     padding-left: 25px;
     
 }
@@ -106,7 +93,6 @@ li.pic{
      background-repeat: no-repeat;
     background-image: url(http://www.iconshock.com/img_jpg/REALVISTA/food/jpg/256/grapes_icon.jpg);
     background-size: 20px 20px ;
-    background-position:;
     padding-left: 25px;
     
 }
@@ -114,13 +100,25 @@ li.pic{
 
 #ph {
     font-style: italic;
-    
-}
-
+}    
 
 #red{
     color:red;
 }
+
+.dec{
+     text-decoration: none;
+     font-weight: bold;
+    
+}
+
+#ac a:active {
+     border:2px solid black;
+    
+}
+
+
+
 
 
     
